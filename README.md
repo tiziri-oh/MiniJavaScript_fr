@@ -1,3 +1,5 @@
+Compilateur MiniJavaScript en français
+
 Pour compiler il faut executer la commande:
 	- make
 
